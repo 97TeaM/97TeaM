@@ -9,4 +9,4 @@ The main goal of our team — is to create high-quality BS private servers.
 https://discord.gg/2qc32WRZRB - Solar Brawl
 https://discord.gg/4UzBWjHuUe - Budget Brawl
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![97TeamM GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
