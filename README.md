@@ -5,7 +5,7 @@ The main goal of our team — is to create high-quality BS private servers.
 
 - Join our tg channel to stay turned — https://t.me/ninetyseven
 
--- Our discord servers --
+- Our discord servers
 https://discord.gg/2qc32WRZRB - Solar Brawl
 https://discord.gg/4UzBWjHuUe - Budget Brawl
 
