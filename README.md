@@ -8,4 +8,4 @@ The main goal of our team — is to create high-quality BS private servers.
 - Our discord server
 https://discord.gg/4UzBWjHuUe - Budget Brawl
 
-[![97TeaM's GitHub stats](https://github-readme-stats.vercel.app/api?username=97TeaM&theme=rose_pine&show_icons=true)]
+![97TeaM's GitHub stats](https://github-readme-stats.vercel.app/api?username=97TeaM&theme=rose_pine&show_icons=true)
